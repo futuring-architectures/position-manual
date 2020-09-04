@@ -12,6 +12,10 @@
 
 ![](../.gitbook/assets/pps-3a-ecosystem-role-portrait.png)
 
+## Ecosystem Job Portrait
+
+![](../.gitbook/assets/pps-3a-ecosystem-job-portrait.png)
+
 ## Platform Transaction Engine
 
 ![](../.gitbook/assets/pps-4-platform-transaction-engine.png)
